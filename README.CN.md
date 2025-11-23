@@ -23,6 +23,10 @@
 
 ---
 
+> 本项目已经暂停开发。如果有哪位大佬有能力将其以免费游戏发布到 Steam 上，欢迎联系我。
+
+---
+
 ![image](/Assets/Game/Common/Textures/UI/LogoPicture.jpg)
 
 * [Gitee 国内镜像](https://gitee.com/imengyu/Ballance)
